@@ -1,3 +1,4 @@
+# adjust this
 WAN=enp0s29f7u1i8
 LAN=enp1s0
 
